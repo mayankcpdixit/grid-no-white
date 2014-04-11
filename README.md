@@ -1,7 +1,7 @@
 phantom-photogrid
 =================
 
-pure javascript based image grid modules
+Pure javascript based image grid module.
 
 So this Idea is also covered in other language and framework but I wanted to make it in a pure JS based scipt.
 I was so Excited to do this because this is the first time I could ever relate my application level problem to some mathematics problem, also first time when I used pure mathematical solution for my practical proble. 
