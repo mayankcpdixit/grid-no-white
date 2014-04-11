@@ -1,0 +1,11 @@
+#workspace{
+	margin-left: 3%;
+}
+.photo{
+	float: left;
+	position: relative;
+	background-position: center;
+	background-size: 100% 100%;
+	background-color: #77c4a5;
+	/*margin: 2px;*/
+}
