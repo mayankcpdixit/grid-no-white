@@ -1,4 +1,4 @@
-phantom-photogrid
+grid-no-white
 =================
 
 Pure javascript based image grid module. see demo [here](https://mayankcpdixit.github.io/grid-no-white).
